@@ -1,0 +1,6 @@
+real_setup.py
+YourPackage.egg-info/PKG-INFO
+YourPackage.egg-info/SOURCES.txt
+YourPackage.egg-info/dependency_links.txt
+YourPackage.egg-info/requires.txt
+YourPackage.egg-info/top_level.txt
